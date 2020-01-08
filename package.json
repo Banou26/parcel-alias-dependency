@@ -3,5 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Banou26 <me@banou.dev>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel ./packages/main/index.html"
+  },
+  "dependencies": {
+    "parcel": "^2.0.0-alpha.3.2"
+  }
 }
