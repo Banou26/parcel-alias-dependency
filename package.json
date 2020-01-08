@@ -9,5 +9,8 @@
   },
   "dependencies": {
     "parcel": "^2.0.0-alpha.3.2"
+  },
+  "devDependencies": {
+    "lerna": "^3.20.2"
   }
 }
